@@ -1,0 +1,12 @@
+Interface - > Blueprint of Class.
+             Like, in interface written the blueprint how a extends class should be
+             implement that.
+
+* Interface only "abstract method" and "static constant"
+* In abstract class both abstract method and regular method are there but
+  in Interface only abstract method not regular.
+
+
+* USE CASE OF INTERFACE :
+  1> Archived "Multiple Inheritance".
+  2> Abstraction.
